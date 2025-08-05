@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="Página-1" id="BD-nxRVB3Ayex5wVRNk0">
+    <mxGraphModel dx="982" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3hG6TlRgSLibvt2rv8aY-1" target="3hG6TlRgSLibvt2rv8aY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3hG6TlRgSLibvt2rv8aY-1" target="3hG6TlRgSLibvt2rv8aY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="30" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hG6TlRgSLibvt2rv8aY-3" target="3hG6TlRgSLibvt2rv8aY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3hG6TlRgSLibvt2rv8aY-3" target="3hG6TlRgSLibvt2rv8aY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-3" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hG6TlRgSLibvt2rv8aY-4" target="3hG6TlRgSLibvt2rv8aY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3hG6TlRgSLibvt2rv8aY-4" target="3hG6TlRgSLibvt2rv8aY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-4" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="55" y="228" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hG6TlRgSLibvt2rv8aY-5" target="3hG6TlRgSLibvt2rv8aY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-5" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry y="360" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hG6TlRgSLibvt2rv8aY-6" target="3hG6TlRgSLibvt2rv8aY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-6" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3hG6TlRgSLibvt2rv8aY-7" target="3hG6TlRgSLibvt2rv8aY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-7" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="270" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-8" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="410" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-9" value="izquierda = V, derecha = F" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="18" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-21" value="R1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="198" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-22" value="R2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-23" value="R3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-24" value="R4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="138" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-25" value="Complejidad ciclomatica: 4" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-27" value="9 - 7 + 2 = 4" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="62" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-28" value="Caminos posibles:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1, 2, 3, 4, 7&lt;/div&gt;&lt;div&gt;1, 2, 3, 7&lt;/div&gt;&lt;div&gt;1, 2, 5, 7&lt;/div&gt;&lt;div&gt;1, 6, 7&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3hG6TlRgSLibvt2rv8aY-29" value="Casos de prueba:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;1, 2, 3, 4, 7&lt;/div&gt;&lt;div&gt;valores ingresado&lt;/div&gt;&lt;div&gt;marca = &quot;PEPITO&quot; (distinto de vacío, que sean todas letras y que no esté cargado&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;valores esperados&lt;/div&gt;&lt;div&gt;Mensaje de &quot;sin resultado&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1, 2, 3, 7&lt;/div&gt;&lt;div&gt;&lt;div&gt;valores ingresados&lt;/div&gt;&lt;div&gt;marca = &quot;FORD&quot; (distinto de vacío, que sean todas letras y que esté cargado&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;valores esperados&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Carga los autos encontrados en la lista de resultados.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1, 2, 5, 7&lt;/div&gt;&lt;div&gt;&lt;div&gt;valores ingresados&lt;/div&gt;&lt;div&gt;marca = &quot;FORD123&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot; (distinto de vacío y con números o símbolos&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;valores esperados&lt;/div&gt;&lt;/div&gt;&lt;div&gt;mensaje &quot;No se permiten dígitos ni símbolos&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1, 6, 7&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;valores ingresados&lt;/div&gt;&lt;div&gt;&lt;div&gt;marca = &quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot; (vacío&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;valores esperados&lt;/div&gt;&lt;/div&gt;&lt;div&gt;carga los autos de &quot;autos&quot; a la lista de resultados&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="460" height="430" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
